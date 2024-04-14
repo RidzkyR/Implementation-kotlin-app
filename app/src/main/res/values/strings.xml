@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implementation-kotlin-android</string>
+    <string name="short_description">"This is the first app I created. It includes Kotlin practice exercises based on what I learned previously."</string>
+    <string name="date_build">Created Date: April 13 2024</string>
+    <string name="data_type_variable_menu"><![CDATA[Data Type & Variable]]></string>
+    <string name="operators_comparisons_menu"><![CDATA[Operators & Comparisons]]></string>
+    <string name="control_flow_menu">Control Flow</string>
+    <string name="function_menu">Function</string>
+    <string name="class_object_menu"><![CDATA[Class & Object]]></string>
+</resources>
